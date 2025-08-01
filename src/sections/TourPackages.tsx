@@ -13,4 +13,6 @@ function TourPackages({content}: {content: tourPackagesType[]}) {
   )
 }
 
+
+
 export default TourPackages
