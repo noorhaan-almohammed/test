@@ -3,8 +3,7 @@
 const App = () => {
   return (
     <div>
-      Edit from Wajd....
-      Testing only
+      hellooo, itsa meeeee !! MARIO
     </div>
   )
 }
